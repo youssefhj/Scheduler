@@ -1,10 +1,10 @@
 ## Scheduling:
 In the linux class we learned about scheduler, and how this piece of software manage and distribute CPU time among processes. So after this class an idea comes to my mind why not implementing this concept using C langages.
 
-I implemented three types:
-    *-***FCFS*** : First Come First Served
-    *-***SJF***  : Short Job First
-    *-***PPF***  : Priority Process First
+I implemented three types:</br>
+    ***FCFS*** : First Come First Served
+    ***SJF***  : Short Job First
+    ***PPF***  : Priority Process First
 
 After running this program the GANTT CHART will appear on the screen
 showing how much time the process was allocated in the cpu.
